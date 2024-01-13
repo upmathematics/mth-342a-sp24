@@ -1,0 +1,114 @@
+---
+title: |
+  | **Tentative Topics Schedule**
+  | **Applied Linear Algebra**
+author: |
+  | MTH 342 Section A
+  | Spring 2024
+  | University of Portland
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+> See Books & Online Resources Lists for the readings & practice materials.
+>
+> The readings & practice materials are not mandatory but it is encouraged.
+
+<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
+
+<br>
+
+## **Topics and Materials**
+
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading & Practice** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1** | M 1/15 | _MLK Day_ | - | - | - |
+|  | W 1/17 | Introduction and Orientation to ALA | TBA | Assigned: Homework 0 | TBA |
+|  | F 1/19 | Vector Geometry | TBA | - | TBA |
+| **2** | M 1/22 | Projections and Planes | TBA | - | TBA |
+|  | W 1/24 | Subspace and Spanning | TBA | Assigned: Homework 1 | TBA |
+|  | F 1/26 | Linear Independence and Dimension | TBA | - | TBA |
+| **3** | M 1/29 | Matrix Geometry | TBA | - | TBA |
+|  | W 1/31 | Addition, Multiplication, and Transposition | TBA | Assigned: Homework 2 | TBA |
+|  | F 2/2 | Linear Transformations | TBA | - | TBA |
+| **4** | M 2/5 | System of Linear Equations | TBA | - | TBA |
+|  | W 2/7 | Row Reduction and Rank | TBA | Assigned: Homework 3 | TBA |
+|  | F 2/9 | Solutions to System of Linear Equations | TBA | - | TBA |
+| **5** | M 2/12 | Inverse Transformation | TBA | - | TBA |
+|  | W 2/14 | _Project Period_ | - | - | - |
+|  | F 2/16 | **Project Phase 1** | - | - | - |
+| **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
+|  | W 2/21 | Subspace and Spanning Sets | TBA | Assigned: Homework 4 | TBA |
+|  | F 2/23 | Orthogonality | TBA | - | TBA |
+| **7** | M 2/26 | Eigentheory | TBA | - | TBA |
+|  | W 2/28 | Real and Complex Eigenvalues | TBA | Assigned: Homework 5 | TBA |
+|  | F 3/1 | Eigenvectors | TBA | - | TBA |
+| **8** | M 3/4 | _Spring Vacation_ | - | - | - |
+|  | W 3/6 | _Spring Vacation_ | - | - | - |
+|  | F 3/8 | _Spring Vacation_ | - | - | - |
+| **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
+|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | Assigned: Homework 6 | TBA |
+|  | F 3/15 | Diagonalization | TBA | - | TBA |
+| **10** | M 3/18 | Solutions to Matrix Equations | TBA | - | TBA |
+|  | W 3/20 | _Project Period_ | - | - | - |
+|  | F 3/22 | **Project Phase 2** | - | - | - |
+| **11** | M 3/25 | LU Factorization | TBA | - | TBA |
+|  | W 3/27 | QR Factorization | TBA | Assigned: Homework 7 | TBA |
+|  | F 3/29 | _Easter Vacation_ | - | - | - |
+| **12** | M 4/1 | _Easter Vacation_ | - | - | - |
+|  | W 4/3 | Singular Vectors | TBA | Assigned: Homework 8 | TBA |
+|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | - | TBA |
+| **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
+|  | W 4/10 | Least Squares Classification | TBA | Assigned: Homework 9 | TBA |
+|  | F 4/12 | Principal Components | TBA | - | TBA |
+| **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
+|  | W 4/17 | _Project Period_ | - | - | - |
+|  | F 4/19 | **Project Phase 3** | - | - | - |
+| **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
+|  | W 4/24 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
+|  | F 4/26 | _Project Period_ | TBA | - | TBA |
+| **16** | W 5/1 | **Section A Project Presentations** | - | All Assignment Revisions Due | - |
+
+<br>
+
+Along with textbook [N], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
+
+  * Inquiry oriented linear algebra (IOLA) by @iola2013
+  * Introduction to linear algebra (6th Edition) by @strang2023linearalgebra
+  * Linear algebra and learning from data by @strang2019linearalgebradata
+  * Linear algebra by @linearalgebramitopencourseware
+
+<br>
+
+## **Books & Online Resources Lists**
+
+```{r echo=FALSE}
+refs <- bibtex::read.bib("references.bib")
+```
+
+*Click on the link to access the resources.*
+
+### Textbooks
+
+[N] `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
+
+[B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
+
+<br>
+
+# References
+
+<div id="refs"></div>
+
+<br>

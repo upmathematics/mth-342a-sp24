@@ -1,0 +1,105 @@
+---
+title: |
+  | **Welcome to Applied Linear Algebra!**
+author: |
+  | MTH 342 Section A
+  | Spring 2024
+  | University of Portland
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+## **Quick Content Guide**
+
+| Page                      | Contents                                                                          |
+|---------------------------|-----------------------------------------------------------------------------------|
+| [Home](index.html)        | Quick course and instructor information                                           |
+| [Syllabus](syllabus.html) | About the class, class materials and resources, class assessment and expectations |
+| [Topics](topics.html)     | Tentative topics, notes, assignments, and books and online resources list         |
+
+<br>
+
+## **Quick Course Information**
+
+### Course Information
+
+> * Title: MTH 342: Applied Linear Algebra
+> * Section: A
+
+### Instructor Information
+
+> * Instructor: Dr. Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+### Lectures and Discussions
+
+> The course schedule and location is:
+>
+> * **Section A:** MWF 10:20 AM - 11:15 AM, Franz Hall 018
+
+<br>
+
+## **Quick Academic Support**
+
+### Walk-In Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in Monday to Thursday at 4:00 PM - 5:00 PM, Buckley Center 279
+
+### Appointment-Based Sessions
+
+> Dr. Alex John Quijano
+>
+> <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the [Learning Commons](www.up.edu/learningcommons){target="_blank"} website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/tutoring-services/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+<br>
+
+## **Quick Communication Tools**
+
+### Microsoft Teams
+
+> The Teams for this course is [MTH-342-sp24](https://teams.microsoft.com/l/team/19%3ABhslPDvVRnf2LmHoOBn_ice_uAmksIMC4sKgCL2v--01%40thread.tacv2/conversations?groupId=d7c5d2e6-8f5d-4032-af1c-41cffc13b9f8&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}.
+
+### Email
+
+My UP email is quijano@up.edu. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 342” keyword in your subject line. 
+
+<br>
+
+## **Quick Assignment Tools**
+
+### Gradescope
+
+> Please register on Gradescope using your UP email address to access assignments. The Gradescope entry code for this course is **8EWE42**.
+
+### Computing
+
+> R or Python instructions and materials will be provided ad hoc.
+
+<br>

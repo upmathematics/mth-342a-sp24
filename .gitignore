@@ -1,0 +1,10 @@
+# directories
+docs/topic/
+docs/exam/
+docs/roster/
+docs/instructor-resources/
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
