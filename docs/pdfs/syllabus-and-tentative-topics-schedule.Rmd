@@ -1,0 +1,495 @@
+---
+title: |
+  | **Applied Linear Algebra**
+  | **Syllabus**
+author: |
+  | MTH 342 Section A
+  | Spring 2024
+  | University of Portland
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 342A ALA - Syllabus \& Tentative Topics Schedule}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: yes
+    number_section: no
+urlcolor: blue
+bibliography: ../../references.bib
+csl: ../../apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+# Syllabus
+
+## **About the Class**
+
+### Course Information
+
+> * Title: MTH 342: Applied Linear Algebra
+> * Section: A
+
+### Instructor Information
+
+> * Instructor: Dr. Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+### Prerequisites
+
+MTH 202 with a grade of C- or higher or permission of instructor.
+
+### Lectures and Discussions
+
+In-person lectures and discussions will occur synchronously during their scheduled time on Monday, Wednesday, and Friday. Our lectures will typically consist of traditional lectures in the first 20 to 30 minutes of class, then followed by a mini-activities in a form of group work, discussions, or worksheets.
+
+> The course schedule and location is:
+>
+> * **Section A:** MWF 10:20 AM - 11:15 AM, Franz Hall 018
+
+### Recommended Textbooks
+
+This course uses the following two textbooks - which is free to access - for optional reading and practice.
+
+```{r echo=FALSE}
+refs <- bibtex::read.bib("../../references.bib")
+```
+
+*Click on the link to access the resources.*
+
+  * `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
+
+  * `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
+
+<br>
+
+## **Communication Tools**
+
+### Class Website
+
+The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
+
+> You can access the course website at [mth-342a-sp24](){target="_blank"}. The website can also be viewed in Teams.
+
+### Microsoft Teams
+
+We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance.
+
+> The Teams for this course is [MTH-342-sp24](https://teams.microsoft.com/l/team/19%3ABhslPDvVRnf2LmHoOBn_ice_uAmksIMC4sKgCL2v--01%40thread.tacv2/conversations?groupId=d7c5d2e6-8f5d-4032-af1c-41cffc13b9f8&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}.
+
+### Email
+
+My UP email is quijano@up.edu. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 342” keyword in your subject line. 
+
+It is easy for me to get notice of your email if you put the keyword in the subject line. Concise and specific messages are helpful, so I know how I can best help you.
+
+<br>
+
+## **Assignment Tools**
+
+### Gradescope
+
+All assignments and feedback must be submitted through [Gradescope](https://www.gradescope.com/){target="_blank"}. You are already listed in Gradescope for this course using your UP email. The gradescope website can also be access through Teams.
+
+> Please register on Gradescope using your UP email address to access assignments. The Gradescope entry code for this course is **8EWE42**.
+
+Note that you may submit your assignments physically in-person if you prefer. I will scan and upload your assignments to Gradescope.
+
+### Computing
+
+We will be using a computational tool in some assignments. These tools are free and open-source.
+
+> R or Python instructions and materials will be provided ad hoc.
+
+<br>
+
+## **Learning Goals**
+
+### Description
+
+This course delves into the practical applications of linear algebra across various disciplines. Students will explore fundamental concepts such as systems of linear equations, matrices, determinants, vector spaces, linear transformations, eigenvalues, and eigenvectors. Additionally, the course covers basic numerical algorithms for matrix computations. The course goes beyond theoretical foundations to address real-world challenges in applied mathematics, engineering, physics, biology, or other scientific disciplines. Through an applied and project-based approach, students will develop a comprehensive understanding of how linear algebra plays a crucial role in solving complex problems and optimizing processes across diverse fields. Emphasis will be placed on practical problem-solving, encouraging students to apply theoretical knowledge to real-world scenarios. This course equips students with valuable skills applicable to a broad spectrum of industries and research areas, fostering a multidisciplinary perspective.
+
+### Learning Outcomes
+
+By the end of the semester, you will be able to:
+
+  * Demonstrate proficiency in working with vector space and projections in both two and three-dimensional spaces.
+  * Display mastery in matrix-vector operations, transformations, and factorizations.
+  * Understand, represent, and solve physical systems using systems of linear equations and matrix-vector equations.
+  * Exhibit skill in using basic numerical algorithms for matrix-vector computations.
+  * Apply linear algebra concepts in data analysis, probability and statistics, and machine learning.
+  * Write clear and concise mathematical solutions to linear algebra problems.
+  * Communicate effectively about linear algebra with other students, instructors, and professionals.
+  * Work independently and as part of a team to solve linear algebra problems.
+
+### Learning Objectives
+
+Upon completion of the course, you will be able to:
+  
+  * Perform basic matrix-vector operations which includes addition, subtraction, multiplication, inversion, and norms.
+  * Solve systems of linear equations representing physical systems using methods such as row reduction, and matrix inversion.
+  * Compute and work with eigenvalues and eigenvectors to explain linear transformations of matrices.
+  * Utilize different matrix factorizations, such as LU decomposition, QR decomposition, and singular value decomposition (SVD).
+  * Implement basic numerical algorithms for matrix-vector computations.
+  * Solve probability and statistics problems utilizing matrix-vector computations.
+  * Apply matrix-vector operations and factorizations to analyze data, and solve problems in machine learning.
+
+<br>
+
+## **Academic Support**
+
+### Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in Monday to Thursday at 4:00 PM - 5:00 PM, Buckley Center 279
+> * [One-to-One, Buckley Center 279 or in Teams](https://calendly.com/alexjohnquijano/helphours){target="_blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+
+My walk-in help hours start week 2. Note that you can bring a fellow student with you when you sign-up for a session. Just click the "Add Guests" link when you sign-up, and add in your fellow student's UP email. If you need more than 15 minutes, you can book at least two consecutive sessions.
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the [Learning Commons](www.up.edu/learningcommons){target="_blank"} website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+### Help Hours Guidelines
+
+It is strongly recommended that you attend the walk-in help hours or set up a one-to-one meeting with the me if you feel like you are falling behind during our in-person class activities, or if you just need to clarify concepts discussed in class. In order to be more productive during a one-to-one meeting (or the walk-in help hours), these are three recommendations before you come in:
+
+  * List all gaps in knowledge you have (missed concepts) or list all concepts that were unclear to you during class. We will address them one by one.
+  * Prepare questions you want answered and be ready to show relevant materials.
+  * Regarding assignments, prepare to show (a) what are the steps you have tried and (b) what are the errors you encountered and the strategies you have tried.
+
+Note that these are recommendations so that you can get the most out of the help hours allocated for you. If you just want to come in and chat about something else, feel free to do so. If the dedicated time for one-to-one meeting does not work for you, send me a message to set up an appointment.
+
+### Collaboration Policy
+
+I expect you to participate in the class through lectures, discussion, labs, and other engagements. I also expect you to make use of opportunities to get help outside of class (help hours, Teams, email, tutoring) if you need help. Concise and specific messages are the most helpful so I know how I can best help you.
+
+Students are encouraged to participate in discussions with their peers (or each other) regarding homework and other assignments. However, each student must take responsibility and ownership of their work and submit their work individually.
+
+<br>
+
+## **Assessment**
+
+### Assessment Disclosure Statement
+
+Student work products for this course may be used by the University for educational quality assurance purposes.
+
+### Standards-Based Grading
+
+Learning mathematics takes hard work, thinking what you have learned, and making changes to your understanding. Students will be assessed on their proficiency in mathematics, and they will have opportunities to demonstrate their proficiency, revise their work and reflect on their learning.
+
+This course follows the standards-based grading system which focuses on the mastery of specific learning standards. It is more accurate and motivating than traditional grading systems, and can help to create a more equitable learning environment. Here are some of the key features of this type of grading:
+
+* Focuses on mastery of specific learning standards
+* Uses a variety of assessment methods
+* Provides feedback to students on their progress
+* Helps students to set goals and track their progress
+
+### Grading
+
+Each assignment will be graded according to the general grading guide detailed below. Each student will be given feedback on their assignment and learning process to improve their performance. Note that each assignment has its own rubric guided by these general guidelines and the assignment’s learning objectives.
+
+| **Grade** | **Rubric Description** |
+|---|---|
+| **Outstanding <br> (O)** | Student's work has demonstrated a full understanding of the material. They are able to explain the concepts clearly and concisely, and they are able to apply the concepts to solve problems correctly and efficiently. They may also be able to extend the concepts to new situations. |
+| **Excellent <br> (E)** | Student's work has shown an approximate understanding of the material. They may have made a few minor errors, but they are able to correct them and explain their reasoning. They are able to solve problems correctly, but they may need more time or practice to do so efficiently. |
+| **Acceptable <br> (A)** | Student's work has shown some understanding of the material, but they have made some errors. They are able to solve some problems, but they may need help with more difficult problems. They may also need to work on their problem-solving skills and their ability to explain their reasoning. |
+| **Needs Improvement <br> (NI)** | Student's work has shown some potential, but they need more work. They may have made a lot of errors, or they may not have been able to solve any problems. They need to work on their understanding of the material and their problem-solving skills. |
+| **Needs Major Improvement <br> (NMI)** | Student's work has not shown much understanding of the material. They have made a lot of errors, and they have not been able to solve any problems. They need to work on their understanding of the material from the ground up. |
+| **Incomplete <br> (I)** | Student's work has not answered any questions or has not submitted anything. They need to review the material and try again. |
+
+*Note that these are categorical grades (not scores)*
+
+### Final Grades
+
+| Assignment | Rank | Grade | A | B | C | D |
+|---|---|---|---|---|---|---|
+| Project Phases | 1 | O | 70% | - | - | - |
+|  |  | E | - | 60% | - | - |
+|  |  | A | - | - | 50% | - |
+|  |  | NI | - | - | - | 40% |
+| Homeworks | 2 | O | 100% | - | - | - |
+|  |  | E | - | 90% | - | - |
+|  |  | A | - | - | 80% | - |
+|  |  | NI | - | - | - | 70% |
+| Worksheets | 3 | Completed | 90% | 80% | 70% | 60% |
+
+*The above table shows the percent of given assignments. These percentages are minimum requirements for each letter grade. The rank determines the importance of each assignment where 1 means high rank and 3 means low rank.*
+
+The percentages in the table are not set in stone. I will evaluate your overall performance, including your self-assessments, when making decisions. I will never raise the standards outlined in the table, but I may round down the minimum percentages to help you succeed.
+
+Decisions about +/- cutoffs will be based on two things: your performance on the final exam and your overall achievements.
+
+<br> 
+
+## **Assignments**
+
+### Submission Guidelines
+
+* You can submit your assignments physically or online through Gradescope.
+* If you decide to submit online, your work can be hand-written or typed, but must be uploaded as a single pdf file. If you had handwritten your answers/solutions on a physical paper, make sure to label it properly and please scan your document using a scanner app for convenience. Suggestions: (1) “Tiny Scanner” for Android or (2) “Scanner App” for iOS.
+
+### Worksheets
+
+There will be worksheets for each non-project week. The purpose of the worksheets is for in-class group work and activities. The group members must submit their completed worksheet individually by end-of-class or end-of-day. Worksheets are graded mostly on completion, and partially on correctness. Your name must exist in your worksheet and the names of your collaborators.
+
+### Homeworks
+
+Homework is assigned every week and due every Friday by end-of-day, except for project weeks. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
+
+### Homework Revisions
+
+You can revise your homework for an up-grade, meaning - for example - a grade of "NI" can be up-graded to "A".
+
+Here are the qualifications and requirements for homework revisions:
+
+  * A homework grade of "NI", "A", or "E".
+  * You must submit homework on time.
+  * The homework to be revised must be completed, meaning all parts should have your full written solutions. Incomplete homework is disqualified for revisions, but you can still use them as practice.
+  * The original copy of the parts with errors in your homework.
+  * A complete written revisions of the parts with errors in your homework.
+  
+Here are the rules for homework revisions:
+
+  * Homework revisions are accepted within one week of the homework being returned to you, otherwise the grade is set.
+  * Late revisions are not accepted unless the instructor allows.
+
+### Project Phases
+
+*TBD*
+
+### Project Final Presentations
+
+> The final presentations are on:
+>
+>   * **Section A:** May 1, Th 10:30 PM - 12:30 PM, Franz Hall 018
+
+<br>
+
+## **Expectations**
+
+### Cancelation Policies
+
+#### Help Hours
+
+You can cancel your scheduled help hours before the event, but it is strongly recommended that you cancel 12 hours before your scheduled time so that other students can schedule when a spot opens. You can reschedule for a different day and time if you need to.
+
+Please try to show-up to your scheduled help hours. If for any reason that you can't make-it, please let me know as soon as possible.
+
+#### Project Phases Presentations
+
+You can cancel your scheduled presentation before the event, but it is strongly recommended that you cancel 12 hours before your scheduled time so that other students can schedule when a spot opens. You can reschedule for a different time slot if you need to.
+
+Note that canceling a presentation makes you disqualified for revisions or retakes. If you have extenuating circumstances, please let me know as soon as possible to discuss next steps.
+
+Please try to show-up to your scheduled oral exam. If you have extenuating circumstances, please let me know as soon as possible to discuss next steps.
+
+#### Make-ups/Retakes
+
+You can cancel your scheduled make-up before the event, but it is strongly recommended that you cancel 24 hours before your scheduled time so that other students can schedule when a spot opens. You can reschedule for a different day and time if you need to.
+
+Please try to show-up to your scheduled make-up. If you have extenuating circumstances, please let me know as soon as possible to discuss next steps.
+
+The same rules that apply to exams also apply to makeups and retakes.
+
+### Attendance and Participation
+
+You are expected to actively participate in this classroom community. Participation includes coming to class on time, being prepared, being willing to ask questions and share ideas, setting up study groups outside of class, attending tutoring sessions, posting helpful resources online, and contributing to the Teams discussion channels. Group and individual presentations of ideas is a suggested component of participation.
+
+### Late Assignments and Incompletes
+
+You are expected to turn in all completed assignments on time. Circumstances that may disallow you to turn in your work on time - such as a medical reason - are understandable. Please let the instructor know if you are unable to submit your work and have missed the deadline way beyond its original posted date. Because every assignment is an important aspect of your learning in this class, we will discuss when you will turn in the assignment as well as decide upon an acceptable consequence for your turning it in late. I am committed to successfully helping you learn from this course.
+
+### Classroom Norms
+
+  * Follow assignment submission guidelines.
+  
+  * Give your undivided attention to the class discussions. 
+  
+  * If you don’t agree with what someone else has to say, you are encouraged to express your point of view, but do so respectfully, and support your claims with textual evidence.
+  
+  * Everyone has the right to be heard. Maintain confidentiality if a person decides to share a personal experience.
+
+  * No name calling and respect each person's identity.
+
+  * One person speaks at a time. Give chances for other people to speak.
+  
+  * Maintain the highest standards of excellence for both you and others.
+
+  * Possess the humility to understand that you are not an expert in everything and that everyone has room for improvement.
+
+  * Realize that each person will start with a distinct set of skills.
+  
+  * Take care of yourself. If you need to step out of the classroom to have a moment to yourself - or go the bathroom - feel free to do so.
+
+### Inclusion and Diversity
+
+The natural and mathematical sciences are often viewed as objective disciplines. Science is a method for us to understand how the world works. However, it is historically built from a small set of privileged populations that often ignores the biases. I acknowledge that there may be some parts in this course that have overt and covert biases. Science is a human endeavor, and the pursuit of knowledge and skill must incorporate a diverse set of experiences. 
+
+I value all students regardless of their background, country of origin, race, religion, ethnicity, sexual orientation, disability status, etc. I am are committed to providing a climate of excellence and inclusiveness within all aspects of this course. If you have any concerns, issues, or challenges, you are encouraged to discuss with the instructor (set up a meeting by email or a direct message in Teams) with the assurance of full confidentiality except for academic integrity code violations or sexual harassment (which I am obligated by law to report).
+
+In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
+
+### Accessibility Statement
+
+The University of Portland strives to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are also encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943-8985). If you have an AES Accommodation Plan, you should meet with your instructor to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, if applicable, you should meet with your instructor to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency. All information that students provide regarding disability or accommodation is confidential. All students are responsible for completing the required coursework and are held to the same evaluation standards specified in the course syllabus.
+
+### Referencing and Citation Guidelines
+
+In your written work for this course, you must cite all sources of information that you use, whether they are direct quotes, paraphrases, or summaries. The style of citation that you use should be consistent throughout your paper. The citation styles for this course are APA and CSE.
+
+  * APA style is used in the social sciences and psychology. It is characterized by parenthetical citations that include the author's last name and the year of publication. For example, "According to Smith (2023), the average height of a man in the United States is 5'10"."
+  * CSE style is used in the natural sciences and engineering. It is characterized by numbered citations that are listed at the end of the paper. For example, "[1] Smith, J. (2023). The average height of a man in the United States. Journal of Human Biology, 55(2), 123-132."
+
+If you are unsure which citation style to use, please consult with your instructor. You can also find more information about APA and CSE style in the Clark Library citation guidelines: [libguides.up.edu/cite](https://libguides.up.edu/cite){target="_blank"}
+
+Here are some additional tips for citing sources:
+
+  * Always cite the original source, even if you are quoting from a secondary source.
+  * Be sure to include all relevant information in your citations, such as the author's name, the year of publication, and the title of the source.
+  * List your references in alphabetical order at the end of your paper.
+
+Plagiarism is the act of using someone else's work without giving them credit. It is a serious academic offense that can result in a failing grade or even expulsion from school. By following these guidelines, you can help to avoid plagiarism and ensure that your work is properly cited.
+
+### Code of Academic Integrity
+
+The University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity. 
+
+Especially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline.
+
+The use of artificial intelligence (AI) tools such as ChatGPT without attribution also constitutes plagiarism. Students must cite any AI-generated text and ideas and disclose any activities (e.g. brainstorming, editing, translating, etc.) for which AI was employed. Students are expected to demonstrate sound judgment in discerning when and how to utilize AI ethically across their academic work, upholding standards of citation, originality, and integrity. The misuse of AI to shortcut academic requirements will be considered a breach of academic integrity. Students who have questions about when and how to use AI should talk with their instructor.
+
+### Mental Health Statement
+
+Anyone may sometimes experience problems with their mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Wellness Center in the lower level of Orrico Hall (down the hill from Franz Hall and near Mehling Hall) at 503-943-7134 or wellness@up.edu. Their services are free and confidential. In addition, confidential phone counseling is available at the Pilot Helpline by calling 503-943-7134 and pressing 3. The University of Portland Campus Safety Department (503-943-4444) also has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do - for yourself, for those you care about, and for those who care about you.
+
+### Physical Health Statement
+
+Generally, students are expected to attend all class sessions according to the instructor’s direction. Students who feel unwell should NOT attend class in person. These students should inform their instructor as soon as possible. 
+
+Should the instructor need to miss class, the course may be temporarily conducted remotely. Should the instructor be unable to teach for an extended period of time, the respective department or unit will find a substitute to continue the course.
+
+Students who must be in isolation due to COVID-19 symptoms or a positive test should also contact their instructor as soon as possible to work out details for keeping up with the course material while in isolation.
+
+Following current guidance from our county and state health authorities, face coverings are highly recommended in the classroom and all indoor spaces. As we move through the semester, however, classroom rules and procedures may change. All students and instructors must follow any University-wide COVID-19 rules and procedures that might be in put place at any given time during the semester for classrooms, labs, and all common areas of academic buildings. Such rules and procedures may include required face coverings, suggested distancing protocols and directions, and limitations on eating and drinking in the classroom, among other things. Failure to follow any of the COVID-19 classroom rules in place at the time could result in a student’s removal from the course and/or a report filed with the Office of Student Conduct.
+
+### Non-Violence Statement
+
+The University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power-based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website, [www.up.edu/greendot](www.up.edu/greendot){target="_blank"}. Further information and reporting options may be found on the Title IX website, [www.up.edu/titleix](www.up.edu/titleix){target="_blank"}.
+
+### Ethics of Information
+
+The University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information at [libguides.up.edu/ethicaluse](libguides.up.edu/ethicaluse){target="_blank"}.
+
+<br>
+
+\newpage
+
+# Tentative Topics Schedule
+
+> See Books & Online Resources Lists for the readings & practice materials.
+>
+> The readings & practice materials are not mandatory but it is encouraged.
+
+<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
+
+<br>
+
+## **Topics and Materials**
+
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading & Practice** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1** | M 1/15 | _MLK Day_ | - | - | - |
+|  | W 1/17 | Introduction and Orientation to ALA | TBA | Assigned: Homework 0 | TBA |
+|  | F 1/19 | Vector Geometry | TBA | - | TBA |
+| **2** | M 1/22 | Projections and Planes | TBA | - | TBA |
+|  | W 1/24 | Subspace and Spanning | TBA | Assigned: Homework 1 | TBA |
+|  | F 1/26 | Linear Independence and Dimension | TBA | - | TBA |
+| **3** | M 1/29 | Matrix Geometry | TBA | - | TBA |
+|  | W 1/31 | Addition, Multiplication, and Transposition | TBA | Assigned: Homework 2 | TBA |
+|  | F 2/2 | Linear Transformations | TBA | - | TBA |
+| **4** | M 2/5 | System of Linear Equations | TBA | - | TBA |
+|  | W 2/7 | Row Reduction and Rank | TBA | Assigned: Homework 3 | TBA |
+|  | F 2/9 | Solutions to System of Linear Equations | TBA | - | TBA |
+| **5** | M 2/12 | Inverse Transformation | TBA | - | TBA |
+|  | W 2/14 | _Project Period_ | - | - | - |
+|  | F 2/16 | **Project Phase 1** | - | - | - |
+| **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
+|  | W 2/21 | Subspace and Spanning Sets | TBA | Assigned: Homework 4 | TBA |
+|  | F 2/23 | Orthogonality | TBA | - | TBA |
+| **7** | M 2/26 | Eigentheory | TBA | - | TBA |
+|  | W 2/28 | Real and Complex Eigenvalues | TBA | Assigned: Homework 5 | TBA |
+|  | F 3/1 | Eigenvectors | TBA | - | TBA |
+| **8** | M 3/4 | _Spring Vacation_ | - | - | - |
+|  | W 3/6 | _Spring Vacation_ | - | - | - |
+|  | F 3/8 | _Spring Vacation_ | - | - | - |
+| **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
+|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | Assigned: Homework 6 | TBA |
+|  | F 3/15 | Diagonalization | TBA | - | TBA |
+| **10** | M 3/18 | Solutions to Matrix Equations | TBA | - | TBA |
+|  | W 3/20 | _Project Period_ | - | - | - |
+|  | F 3/22 | **Project Phase 2** | - | - | - |
+| **11** | M 3/25 | LU Factorization | TBA | - | TBA |
+|  | W 3/27 | QR Factorization | TBA | Assigned: Homework 7 | TBA |
+|  | F 3/29 | _Easter Vacation_ | - | - | - |
+| **12** | M 4/1 | _Easter Vacation_ | - | - | - |
+|  | W 4/3 | Singular Vectors | TBA | Assigned: Homework 8 | TBA |
+|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | - | TBA |
+| **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
+|  | W 4/10 | Least Squares Classification | TBA | Assigned: Homework 9 | TBA |
+|  | F 4/12 | Principal Components | TBA | - | TBA |
+| **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
+|  | W 4/17 | _Project Period_ | - | - | - |
+|  | F 4/19 | **Project Phase 3** | - | - | - |
+| **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
+|  | W 4/24 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
+|  | F 4/26 | _Project Period_ | TBA | - | TBA |
+| **16** | W 5/1 | **Section A Project Presentations** | - | All Assignment Revisions Due | - |
+
+<br>
+
+Along with textbook [N] and [B], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
+
+  * Inquiry oriented linear algebra (IOLA) by @iola2013
+  * Introduction to linear algebra (6th Edition) by @strang2023linearalgebra
+  * Linear algebra and learning from data by @strang2019linearalgebradata
+  * Linear algebra by @linearalgebramitopencourseware
+
+<br>
+
+## **Books & Online Resources Lists**
+
+```{r echo=FALSE}
+refs <- bibtex::read.bib("../../references.bib")
+```
+
+*Click on the link to access the resources.*
+
+### Textbooks
+
+[N] `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
+
+[B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
+
+<br>
+
+# References
+
+<div id="refs"></div>
+
+<br>

@@ -25,7 +25,7 @@ create_footer()
 >
 > The readings & practice materials are not mandatory but it is encouraged.
 
-<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
+<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
 
 <br>
 
@@ -82,7 +82,7 @@ create_footer()
 
 <br>
 
-Along with textbook [N], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
+Along with textbook [N] and [B], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
 
   * Inquiry oriented linear algebra (IOLA) by @iola2013
   * Introduction to linear algebra (6th Edition) by @strang2023linearalgebra
