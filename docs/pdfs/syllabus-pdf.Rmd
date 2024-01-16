@@ -271,11 +271,75 @@ Here are the rules for homework revisions:
   * Homework revisions are accepted within one week of the homework being returned to you, otherwise the grade is set.
   * Late revisions are not accepted unless the instructor allows.
 
-### Project Phases
+### Project
 
-*TBD*
+This course is focused on applying linear algebra concepts to science or engineering fields, such as data analysis, probability and statistics, and machine learning. Thus, the course requires you to complete a semester-long project that is specific and guided.
+
+The project is an individual *expository analysis* that demonstrates a comprehensive understanding of the theory of linear algebra and how it applies in the practice of your chosen science or engineering field. An expository analysis project typically involves exploring and presenting a topic related to the application of linear algebra concepts in real-world scenarios.
+
+The general timeline of the project is done in four phases:
+
+  * Phase 1: Topic Selection, literature Review, theoretical framework.
+  * Phase 2: Application, computational aspect, results, and Analysis.
+  * Phase 3: Visualizations, discussions, and conclusions.
+  * Phase 4: Final report and presentation to the whole class.
+
+Each phase has its own specific tasks of the same chosen topic, and due date on when these tasks should be done. You must submit a written report by the time you present, and present that report to me. The one-to-one presentation allows you to demonstrate your understanding of your project verbally and receive valuable feedback. It is administered mostly in dialog style. The presentation is only ten to fifteen minutes.
+
+As a student in this course, the table below outlines the criteria used to assess the abilities demonstrated in each phase. The final report and presentation will be evaluated comprehensively.
+
+| **Criteria** | **Description** |
+|-----|----------|
+| **Content Knowledge** | Demonstrates a deep understanding of linear algebra concepts relevant to the project. Shows proficiency in applying mathematical principles to solve real-world problems. |
+| **Clarity and Organization** | Presents the project in a clear and organized manner. The flow of ideas is logical, and information is presented in a structured format. |
+| **Methodology** | Describes the methodology used to approach and solve the problem. Provides clear and concise explanations of the steps taken, including any mathematical techniques or algorithms applied. |
+| **Critical Thinking** | Demonstrates critical thinking by analyzing the problem thoroughly, exploring alternative solutions, and justifying the chosen approach. Considers the implications of the results and potential improvements. |
+| **Presentation Skills** | Delivers a well-prepared and engaging presentation. Speaks clearly, maintains good eye contact, and effectively uses visual aids if applicable. Captures the audience's attention and conveys complex ideas in an accessible manner. |
+| **Completeness** | Addresses all aspects of the project requirements. Includes relevant data, calculations, and explanations. Does not leave any critical components unanswered. |
+| **Adherence to Guidelines** | Follows the guidelines provided for the project. Meets any specified formatting requirements, word limits, and submission deadlines. |
+| **Peer Evaluation (Phase 4 Only)** | Participates actively in the peer evaluation process. Provides constructive feedback on peers' projects, highlighting strengths and suggesting areas for improvement. Fairly assesses contributions of team members if applicable. |
+
+Every semester is unique and topics can very each semester. See the [Project](tba.html) section for more details on the project topics.
+
+Here are the rules for the project phase presentations:
+
+  * You must sign-up for a time slot on phase presentation days 24 hours in advance.
+  * You must submit your written report at the beginning of your presentation.
+
+The grade you will receive for the project phases are a breakdown of the above criteria with detailed feedback.
+
+> Here is how you can sign-up for a one-to-one project phase presentation:
+>
+> * [ALA Project Phase Presentation](https://calendly.com/alexjohnquijano/ala-project-phase-presentation){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+
+### Project Phase Revisions
+
+Your reports can be revised and must present those revisions to me on the next Project Phase. Revisions allows you to have your project phases up-graded, meaning - for example - a grade of “NI” can be up-graded to “A”.
+
+Here are the qualifications for phase revisions:
+
+  * A project phase grade of “NMI”, NI”, “A”, or “E”.
+
+Here are the rules for phase revisions:
+
+  * Revisions and presenting your revisions must be done on the next Project Phase, otherwise the grade is set. This means - for example - revisions for Phase 1 must be done by Phase 2.
+
+### Make-up Project Phase Presentations
+
+You can make-up your phase presentations due to extenuating circumstances. Please let me know if you can’t make it to a phase presentation day. If you missed a phase presentation day, please let me know as soon as possible to discuss the next steps.
+
+Here are the rules of make-up project phase presentations:
+
+  * A missed phase presentation day means that you will automatically receive a grade of “I” for that particular project phase.
+  * Make-up presentations must be done before the next Project Phase, otherwise the grade is set. This means - for example - make-up for Phase 1 must be done before Phase 2.
+  
+> Here is how you can sign-up for a make-up project phase presentations:
+>
+> * [ALA Make-Up Project Phase Presentation](https://calendly.com/alexjohnquijano/ala-project-phase-presentation-make-up){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
 
 ### Project Final Presentations
+
+The final project phase (Phase 4) requires you to present your work to the entire class and possibly guests - this includes a peer review worksheet that must be submitted in class. Previous Phase revisions are not allowed during finals week.
 
 > The final presentations are on:
 >
