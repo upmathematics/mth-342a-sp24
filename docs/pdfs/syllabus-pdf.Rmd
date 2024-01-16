@@ -10,7 +10,7 @@ author: |
 header-includes: |
   \usepackage{fancyhdr}
   \pagestyle{fancy}
-  \fancyhead[RO,R]{MTH 342A ALA - Syllabus \& Tentative Topics Schedule}
+  \fancyhead[RO,R]{MTH 342A ALA - Syllabus}
   \fancyfoot[CO,C]{}
   \fancyfoot[R]{\thepage}
   \usepackage{float}
@@ -209,20 +209,20 @@ Each assignment will be graded according to the general grading guide detailed b
 Given the following categorical grade, the student's work is able to:
 
 | **Grade** | **Rubric Description** |
-|----|--------|
+|-----:|:---------------|
 | **Outstanding <br> (O)** | Demonstrate full understanding of material, clearly and concisely explains concepts, applies them to solve problems correctly and efficiently, and may extend concepts to new situations. |
 | **Excellent <br> (E)** | Show approximate understanding of material, may have made minor errors but can correct them and explain reasoning, solves problems correctly, and may need more time or practice for efficiency. |
 | **Acceptable <br> (A)** | Show some understanding of material but makes errors, can solve some problems, may need help with more difficult ones, need to work on problem-solving skills and reasoning needed. |
 | **Needs Improvement <br> (NI)** | Show potential but needs more work, made a lot of errors or unable to solve any problems, need to work on understanding material and problem-solving skills. |
-| **Needs Major Improvement <br> (NMI)** | Little understanding of material. Made many errors, unable to solve any problems, need to work on understanding material from the ground up. |
-| **Incomplete <br> (I)** | No answers submitted, need to review material and try again. |
+| **Needs Major Improvement <br> (NMI)** | Little understanding of material and some parts are incomplete or missing. Made many errors, unable to solve any problems, need to work on understanding material from the ground up. |
+| **Incomplete <br> (I)** | No work submitted or blank. |
 
 *Note that these are categorical grades (not scores)*
 
 ### Final Grades
 
 | Assignment | Rank | Grade | A | B | C | D |
-|---|---|---|---|---|---|---|
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Project Phases | 1 | O | 70% | - | - | - |
 |  |  | E | - | 60% | - | - |
 |  |  | A | - | - | 50% | - |
@@ -279,17 +279,17 @@ The project is an individual *expository analysis* that demonstrates a comprehen
 
 The general timeline of the project is done in four phases:
 
-  * Phase 1: Topic Selection, literature Review, theoretical framework.
-  * Phase 2: Application, computational aspect, results, and Analysis.
-  * Phase 3: Visualizations, discussions, and conclusions.
-  * Phase 4: Final report and presentation to the whole class.
+  * *Phase 1:* Topic Selection, literature Review, theoretical framework.
+  * *Phase 2:* Application, computational aspect, results, and Analysis.
+  * *Phase 3:* Visualizations, discussions, and conclusions.
+  * *Phase 4:* Final report and presentation to the whole class.
 
 Each phase has its own specific tasks of the same chosen topic, and due date on when these tasks should be done. You must submit a written report by the time you present, and present that report to me. The one-to-one presentation allows you to demonstrate your understanding of your project verbally and receive valuable feedback. It is administered mostly in dialog style. The presentation is only ten to fifteen minutes.
 
 As a student in this course, the table below outlines the criteria used to assess the abilities demonstrated in each phase. The final report and presentation will be evaluated comprehensively.
 
-| **Criteria** | **Description** |
-|-----|----------|
+| **Project Criteria** | **Description** |
+|-----:|:----------|
 | **Content Knowledge** | Demonstrates a deep understanding of linear algebra concepts relevant to the project. Shows proficiency in applying mathematical principles to solve real-world problems. |
 | **Clarity and Organization** | Presents the project in a clear and organized manner. The flow of ideas is logical, and information is presented in a structured format. |
 | **Methodology** | Describes the methodology used to approach and solve the problem. Provides clear and concise explanations of the steps taken, including any mathematical techniques or algorithms applied. |
@@ -416,16 +416,16 @@ The University of Portland is a community dedicated to the investigation and dis
 
 > See Books & Online Resources Lists for the readings & practice materials.
 >
-> The readings & practice materials are not mandatory but it is encouraged.
+> The reading materials are not mandatory but it is encouraged.
 
-<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
+<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
 
 <br>
 
 ## **Topics and Materials**
 
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading & Practice** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
+|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | M 1/15 | _MLK Day_ | - | - | - |
 |  | W 1/17 | Introduction and Orientation to ALA | TBA | Assigned: Homework 0 | TBA |
 |  | F 1/19 | Vector Geometry | TBA | - | TBA |
@@ -499,6 +499,8 @@ refs <- bibtex::read.bib("../../references.bib")
 [B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
 
 <br>
+
+\newpage
 
 # References
 

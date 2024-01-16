@@ -198,7 +198,7 @@ Each assignment will be graded according to the general grading guide detailed b
 Given the following categorical grade, the student's work is able to:
 
 | **Grade** | **Rubric Description** |
-|----|--------|
+|-----:|:---------------|
 | **Outstanding <br> (O)** | Demonstrate full understanding of material, clearly and concisely explains concepts, applies them to solve problems correctly and efficiently, and may extend concepts to new situations. |
 | **Excellent <br> (E)** | Show approximate understanding of material, may have made minor errors but can correct them and explain reasoning, solves problems correctly, and may need more time or practice for efficiency. |
 | **Acceptable <br> (A)** | Show some understanding of material but makes errors, can solve some problems, may need help with more difficult ones, need to work on problem-solving skills and reasoning needed. |
@@ -211,7 +211,7 @@ Given the following categorical grade, the student's work is able to:
 ### Final Grades
 
 | Assignment | Rank | Grade | A | B | C | D |
-|---|---|---|---|---|---|---|
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Project Phases | 1 | O | 70% | - | - | - |
 |  |  | E | - | 60% | - | - |
 |  |  | A | - | - | 50% | - |
@@ -268,17 +268,17 @@ The project is an individual *expository analysis* that demonstrates a comprehen
 
 The general timeline of the project is done in four phases:
 
-  * Phase 1: Topic Selection, literature Review, theoretical framework.
-  * Phase 2: Application, computational aspect, results, and Analysis.
-  * Phase 3: Visualizations, discussions, and conclusions.
-  * Phase 4: Final report and presentation to the whole class.
+  * *Phase 1:* Topic Selection, literature Review, theoretical framework.
+  * *Phase 2:* Application, computational aspect, results, and Analysis.
+  * *Phase 3:* Visualizations, discussions, and conclusions.
+  * *Phase 4:* Final report and presentation to the whole class.
 
 Each phase has its own specific tasks of the same chosen topic, and due date on when these tasks should be done. You must submit a written report by the time you present, and present that report to me. The one-to-one presentation allows you to demonstrate your understanding of your project verbally and receive valuable feedback. It is administered mostly in dialog style. The presentation is only ten to fifteen minutes.
 
 As a student in this course, the table below outlines the criteria used to assess the abilities demonstrated in each phase. The final report and presentation will be evaluated comprehensively.
 
-| **Criteria** | **Description** |
-|-----|----------|
+| **Project Criteria** | **Description** |
+|-----:|:----------|
 | **Content Knowledge** | Demonstrates a deep understanding of linear algebra concepts relevant to the project. Shows proficiency in applying mathematical principles to solve real-world problems. |
 | **Clarity and Organization** | Presents the project in a clear and organized manner. The flow of ideas is logical, and information is presented in a structured format. |
 | **Methodology** | Describes the methodology used to approach and solve the problem. Provides clear and concise explanations of the steps taken, including any mathematical techniques or algorithms applied. |

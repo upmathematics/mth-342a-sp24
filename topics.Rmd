@@ -23,16 +23,16 @@ create_footer()
 
 > See Books & Online Resources Lists for the readings & practice materials.
 >
-> The readings & practice materials are not mandatory but it is encouraged.
+> The reading materials are not mandatory but it is encouraged.
 
-<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
+<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
 
 <br>
 
 ## **Topics and Materials**
 
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading & Practice** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
+|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | M 1/15 | _MLK Day_ | - | - | - |
 |  | W 1/17 | Introduction and Orientation to ALA | TBA | Assigned: Homework 0 | TBA |
 |  | F 1/19 | Vector Geometry | TBA | - | TBA |
