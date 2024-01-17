@@ -1,0 +1,55 @@
+\contentsline {section}{MTH 342}{1}{section*.2}%
+\contentsline {subsection}{\textbf {About the Class}}{1}{section*.3}%
+\contentsline {subsubsection}{Course Information}{1}{section*.4}%
+\contentsline {subsubsection}{Instructor Information}{1}{section*.5}%
+\contentsline {subsubsection}{Prerequisites}{1}{section*.6}%
+\contentsline {subsubsection}{Lectures and Discussions}{1}{section*.7}%
+\contentsline {subsubsection}{Recommended Textbooks}{2}{section*.8}%
+\contentsline {subsection}{\textbf {Communication Tools}}{2}{section*.9}%
+\contentsline {subsubsection}{Class Website}{2}{section*.10}%
+\contentsline {subsubsection}{Microsoft Teams}{2}{section*.11}%
+\contentsline {subsubsection}{Email}{2}{section*.12}%
+\contentsline {subsection}{\textbf {Assignment Tools}}{2}{section*.13}%
+\contentsline {subsubsection}{Gradescope}{2}{section*.14}%
+\contentsline {subsubsection}{Computing}{2}{section*.15}%
+\contentsline {subsection}{\textbf {Learning Goals}}{3}{section*.16}%
+\contentsline {subsubsection}{Description}{3}{section*.17}%
+\contentsline {subsubsection}{Learning Outcomes}{3}{section*.18}%
+\contentsline {subsubsection}{Learning Objectives}{3}{section*.19}%
+\contentsline {subsection}{\textbf {Academic Support}}{3}{section*.20}%
+\contentsline {subsubsection}{Help Hours}{3}{section*.21}%
+\contentsline {subsubsection}{The Learning Commons}{3}{section*.22}%
+\contentsline {subsubsection}{Math Resource Center}{4}{section*.23}%
+\contentsline {subsubsection}{Help Hours Guidelines}{4}{section*.24}%
+\contentsline {subsubsection}{Collaboration Policy}{4}{section*.25}%
+\contentsline {subsection}{\textbf {Assessment}}{4}{section*.26}%
+\contentsline {subsubsection}{Assessment Disclosure Statement}{4}{section*.27}%
+\contentsline {subsubsection}{Standards-Based Grading}{4}{section*.28}%
+\contentsline {subsubsection}{Grading}{5}{section*.29}%
+\contentsline {subsubsection}{Final Grades}{5}{section*.30}%
+\contentsline {subsection}{\textbf {Assignments}}{6}{section*.31}%
+\contentsline {subsubsection}{Submission Guidelines}{6}{section*.32}%
+\contentsline {subsubsection}{Worksheets}{6}{section*.33}%
+\contentsline {subsubsection}{Homeworks}{6}{section*.34}%
+\contentsline {subsubsection}{Homework Revisions}{6}{section*.35}%
+\contentsline {subsubsection}{Project}{6}{section*.36}%
+\contentsline {subsubsection}{Project Phase Revisions}{7}{section*.37}%
+\contentsline {subsubsection}{Project Phase Make-Up}{8}{section*.38}%
+\contentsline {subsubsection}{Project Final Presentations}{8}{section*.39}%
+\contentsline {subsection}{\textbf {Expectations}}{8}{section*.40}%
+\contentsline {subsubsection}{Cancelation Policies}{8}{section*.41}%
+\contentsline {subsubsection}{Attendance and Participation}{8}{section*.42}%
+\contentsline {subsubsection}{Absences}{8}{section*.43}%
+\contentsline {subsubsection}{Late Assignments and Incompletes}{8}{section*.44}%
+\contentsline {subsubsection}{Diversity, Equity, and Inclusion Statement}{9}{section*.45}%
+\contentsline {subsubsection}{Accessibility Statement}{9}{section*.46}%
+\contentsline {subsubsection}{Code of Academic Integrity}{9}{section*.47}%
+\contentsline {subsubsection}{Referencing and Citation Guidelines}{9}{section*.48}%
+\contentsline {subsubsection}{Mental Health Statement}{10}{section*.49}%
+\contentsline {subsubsection}{Non-Violence Statement}{10}{section*.50}%
+\contentsline {subsubsection}{Ethics of Information}{10}{section*.51}%
+\contentsline {section}{Tentative Topics Schedule}{11}{section*.52}%
+\contentsline {subsection}{\textbf {Topics and Materials}}{11}{section*.53}%
+\contentsline {subsection}{\textbf {Books \& Online Resources Lists}}{12}{section*.54}%
+\contentsline {subsubsection}{Textbooks}{12}{section*.55}%
+\contentsline {section}{\textbf {References}}{13}{section*.56}%

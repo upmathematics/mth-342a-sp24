@@ -226,7 +226,7 @@ Given the following categorical grade, the student's work is able to:
 
 The percentages in the table are not set in stone. I will evaluate your overall performance, including your self-assessments, when making decisions. I will never raise the standards outlined in the table, but I may round down the minimum percentages to help you succeed.
 
-Decisions about +/- cutoffs will be based on two things: your performance on the final exam and your overall achievements.
+Decisions about +/- cutoffs will be based on two things: your performance on the final project presentation and your overall achievements.
 
 <br> 
 

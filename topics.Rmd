@@ -78,7 +78,7 @@ create_footer()
 | **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
 |  | W 4/24 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
 |  | F 4/26 | _Project Period_ | TBA | - | TBA |
-| **16** | W 5/1 | **Section A Project Presentations** | - | All Assignment Revisions Due | - |
+| **16** | W 5/1 | **Project Phase 4** | - | - | - |
 
 <br>
 

@@ -237,7 +237,7 @@ Given the following categorical grade, the student's work is able to:
 
 The percentages in the table are not set in stone. I will evaluate your overall performance, including your self-assessments, when making decisions. I will never raise the standards outlined in the table, but I may round down the minimum percentages to help you succeed.
 
-Decisions about +/- cutoffs will be based on two things: your performance on the final exam and your overall achievements.
+Decisions about +/- cutoffs will be based on two things: your performance on the final project presentation and your overall achievements.
 
 <br> 
 
@@ -472,7 +472,7 @@ The University of Portland is a community dedicated to the investigation and dis
 | **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
 |  | W 4/24 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
 |  | F 4/26 | _Project Period_ | TBA | - | TBA |
-| **16** | W 5/1 | **Section A Project Presentations** | - | All Assignment Revisions Due | - |
+| **16** | W 5/1 | **Project Phase 4** | - | - | - |
 
 <br>
 
