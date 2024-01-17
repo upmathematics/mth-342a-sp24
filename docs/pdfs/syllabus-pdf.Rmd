@@ -115,6 +115,10 @@ We will be using a computational tool (R or Python) for the semester project and
 > 
 > R or Python instructions and materials will be provided ad hoc.
 
+*Note that the Posit Cloud computing service is free for you but it is metered by computation hours. Please only use the service for course related computations.*
+
+The advantage of cloud computing is that you don't need to worry about installation and updates, and I can fix any errors remotely. If you are interested in doing your own computation on your own machine you can install R or Python environments yourself through [R Studio](https://posit.co/download/rstudio-desktop/){target="_blank"} or [Jupyter](https://jupyter.org/){target="_blank"}.
+
 <br>
 
 ## **Learning Goals**
