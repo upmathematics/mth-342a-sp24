@@ -1,8 +1,8 @@
 # directories
-docs/topic/
-docs/exam/
+docs/worksheet/
+docs/homework/
+docs/project/
 docs/roster/
-docs/instructor-resources/
 
 .Rproj.user
 .Rhistory
