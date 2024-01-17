@@ -303,7 +303,7 @@ Every semester is unique and topics can very each semester. See the [Project](tb
 
 Here are the rules for the project phase presentations:
 
-  * Each student must have a unique topic, meaning students with the same topic is not allowed.
+  * Each student must have a unique topic for the semester, meaning students with the same topic is not allowed and changing topics after Phase 1 is not recommended.
   * You must sign-up for a time slot on phase presentation days 24 hours in advance.
   * You must submit your written report at the beginning of your presentation.
 
