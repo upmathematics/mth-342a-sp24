@@ -68,13 +68,15 @@ refs <- bibtex::read.bib("references.bib")
 
 The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
 
-> You can access the course website at [mth-342a-sp24](){target="_blank"}. The website can also be viewed in Teams.
+> You can access the course website at [mth-342a-sp24](https://upmathematics.github.io/mth-342a-sp24/){target="_blank"}. The website can also be viewed in Teams.
 
 ### Microsoft Teams
 
-We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance.
+We will be using Teams as the main real-time communication tool for general announcements, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance.
 
 > The Teams for this course is [MTH-342-sp24](https://teams.microsoft.com/l/team/19%3ABhslPDvVRnf2LmHoOBn_ice_uAmksIMC4sKgCL2v--01%40thread.tacv2/conversations?groupId=d7c5d2e6-8f5d-4032-af1c-41cffc13b9f8&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}.
+
+Note that most of the content can be accessed in Teams which includes the course website, Gradescope, and Cloud Computing.
 
 ### Email
 
@@ -96,11 +98,13 @@ All assignments and feedback must be submitted through [Gradescope](https://www.
 
 Note that you may submit your assignments physically in-person if you prefer. I will scan and upload your assignments to Gradescope.
 
-### Computing
+### Cloud Computing
 
-We will be using a computational tool (R or Python) for the semester project and some assignments. These tools are free and open-source.
+We will be using a computational tool (R or Python) for the semester project and some assignments. These tools are free and open-source. We will use the [Posit Cloud](https://login.posit.cloud/login?redirect=%2F){target="_blank"} service, an online computing environment.
 
-> TBA
+> Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester. Once you are in the workspace, you can create your own project environment with either R or Python.
+> 
+> R or Python instructions and materials will be provided ad hoc.
 
 <br>
 
@@ -266,6 +270,8 @@ This course is focused on applying linear algebra concepts to science or enginee
 
 The project is an individual *expository analysis* that demonstrates a comprehensive understanding of the theory of linear algebra and how it applies in the practice of your chosen science or engineering field. An expository analysis project typically involves exploring and presenting a topic related to the application of linear algebra concepts in real-world scenarios.
 
+Every semester is unique and topics can very each semester. See the Project section in the course website for more details on the project topics.
+
 The general timeline of the project is done in four phases:
 
   * *Phase 1:* Topic Selection, literature Review, and theoretical framework.
@@ -287,8 +293,6 @@ As a student in this course, the table below outlines the criteria used to asses
 | **Completeness** | Addresses all aspects of the project requirements. Includes relevant data, calculations, and explanations. Does not leave any critical components unanswered. |
 | **Adherence to Guidelines** | Follows the guidelines provided for the project. Meets any specified formatting requirements, word limits, and submission deadlines. |
 | **Peer Evaluation (Phase 4 Only)** | Participates actively in the peer evaluation process. Provides constructive feedback on peers' projects, highlighting strengths and suggesting areas for improvement. Fairly assesses contributions of team members if applicable. |
-
-Every semester is unique and topics can very each semester. See the [Project](project.html) section for more details on the project topics.
 
 Here are the rules for the project phase presentations:
 

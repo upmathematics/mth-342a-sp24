@@ -16,7 +16,7 @@ header-includes: |
   \usepackage{float}
 output:
   bookdown::pdf_document2:
-    toc: yes
+    toc: no
     number_section: no
 urlcolor: blue
 bibliography: ../../references.bib
@@ -29,8 +29,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
-
-# MTH 342
 
 ## **About the Class**
 
@@ -79,13 +77,15 @@ refs <- bibtex::read.bib("../../references.bib")
 
 The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
 
-> You can access the course website at [mth-342a-sp24](){target="_blank"}. The website can also be viewed in Teams.
+> You can access the course website at [mth-342a-sp24](https://upmathematics.github.io/mth-342a-sp24/){target="_blank"}. The website can also be viewed in Teams.
 
 ### Microsoft Teams
 
-We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance.
+We will be using Teams as the main real-time communication tool for general announcements, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance.
 
 > The Teams for this course is [MTH-342-sp24](https://teams.microsoft.com/l/team/19%3ABhslPDvVRnf2LmHoOBn_ice_uAmksIMC4sKgCL2v--01%40thread.tacv2/conversations?groupId=d7c5d2e6-8f5d-4032-af1c-41cffc13b9f8&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}.
+
+Note that most of the content can be accessed in Teams which includes the course website, Gradescope, and Cloud Computing.
 
 ### Email
 
@@ -107,11 +107,13 @@ All assignments and feedback must be submitted through [Gradescope](https://www.
 
 Note that you may submit your assignments physically in-person if you prefer. I will scan and upload your assignments to Gradescope.
 
-### Computing
+### Cloud Computing
 
-We will be using a computational tool (R or Python) for the semester project and some assignments. These tools are free and open-source.
+We will be using a computational tool (R or Python) for the semester project and some assignments. These tools are free and open-source. We will use the [Posit Cloud](https://login.posit.cloud/login?redirect=%2F){target="_blank"} service, an online computing environment.
 
-> TBA
+> Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester. Once you are in the workspace, you can create your own project environment with either R or Python.
+> 
+> R or Python instructions and materials will be provided ad hoc.
 
 <br>
 
@@ -277,6 +279,8 @@ This course is focused on applying linear algebra concepts to science or enginee
 
 The project is an individual *expository analysis* that demonstrates a comprehensive understanding of the theory of linear algebra and how it applies in the practice of your chosen science or engineering field. An expository analysis project typically involves exploring and presenting a topic related to the application of linear algebra concepts in real-world scenarios.
 
+Every semester is unique and topics can very each semester. See the Project section in the course website for more details on the project topics.
+
 The general timeline of the project is done in four phases:
 
   * *Phase 1:* Topic Selection, literature Review, and theoretical framework.
@@ -298,8 +302,6 @@ As a student in this course, the table below outlines the criteria used to asses
 | **Completeness** | Addresses all aspects of the project requirements. Includes relevant data, calculations, and explanations. Does not leave any critical components unanswered. |
 | **Adherence to Guidelines** | Follows the guidelines provided for the project. Meets any specified formatting requirements, word limits, and submission deadlines. |
 | **Peer Evaluation (Phase 4 Only)** | Participates actively in the peer evaluation process. Provides constructive feedback on peers' projects, highlighting strengths and suggesting areas for improvement. Fairly assesses contributions of team members if applicable. |
-
-Every semester is unique and topics can very each semester. See the [Project](tba.html) section for more details on the project topics.
 
 Here are the rules for the project phase presentations:
 
@@ -408,104 +410,5 @@ The University of Portland is committed to fostering a safe and respectful commu
 ### Ethics of Information
 
 The University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information at [libguides.up.edu/ethicaluse](libguides.up.edu/ethicaluse){target="_blank"}.
-
-<br>
-
-\newpage
-
-# Tentative Topics Schedule
-
-> See Books & Online Resources Lists for the readings & practice materials.
->
-> The reading materials are not mandatory but it is encouraged.
-
-<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
-
-<br>
-
-## **Topics and Materials**
-
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
-|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
-| **1** | M 1/15 | _MLK Day_ | - | - | - |
-|  | W 1/17 | Introduction and Orientation to ALA | TBA | Assigned: Homework 0 | TBA |
-|  | F 1/19 | Vector Geometry | TBA | - | TBA |
-| **2** | M 1/22 | Projections and Planes | TBA | - | TBA |
-|  | W 1/24 | Subspace and Spanning | TBA | Assigned: Homework 1 | TBA |
-|  | F 1/26 | Linear Independence and Dimension | TBA | - | TBA |
-| **3** | M 1/29 | Matrix Geometry | TBA | - | TBA |
-|  | W 1/31 | Addition, Multiplication, and Transposition | TBA | Assigned: Homework 2 | TBA |
-|  | F 2/2 | Linear Transformations | TBA | - | TBA |
-| **4** | M 2/5 | System of Linear Equations | TBA | - | TBA |
-|  | W 2/7 | Row Reduction and Rank | TBA | Assigned: Homework 3 | TBA |
-|  | F 2/9 | Solutions to System of Linear Equations | TBA | - | TBA |
-| **5** | M 2/12 | Inverse Transformation | TBA | - | TBA |
-|  | W 2/14 | _Project Period_ | - | - | - |
-|  | F 2/16 | **Project Phase 1** | - | - | - |
-| **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
-|  | W 2/21 | Subspace and Spanning Sets | TBA | Assigned: Homework 4 | TBA |
-|  | F 2/23 | Orthogonality | TBA | - | TBA |
-| **7** | M 2/26 | Eigentheory | TBA | - | TBA |
-|  | W 2/28 | Real and Complex Eigenvalues | TBA | Assigned: Homework 5 | TBA |
-|  | F 3/1 | Eigenvectors | TBA | - | TBA |
-| **8** | M 3/4 | _Spring Vacation_ | - | - | - |
-|  | W 3/6 | _Spring Vacation_ | - | - | - |
-|  | F 3/8 | _Spring Vacation_ | - | - | - |
-| **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
-|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | Assigned: Homework 6 | TBA |
-|  | F 3/15 | Diagonalization | TBA | - | TBA |
-| **10** | M 3/18 | Solutions to Matrix Equations | TBA | - | TBA |
-|  | W 3/20 | _Project Period_ | - | - | - |
-|  | F 3/22 | **Project Phase 2** | - | - | - |
-| **11** | M 3/25 | LU Factorization | TBA | - | TBA |
-|  | W 3/27 | QR Factorization | TBA | Assigned: Homework 7 | TBA |
-|  | F 3/29 | _Easter Vacation_ | - | - | - |
-| **12** | M 4/1 | _Easter Vacation_ | - | - | - |
-|  | W 4/3 | Singular Vectors | TBA | Assigned: Homework 8 | TBA |
-|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | - | TBA |
-| **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
-|  | W 4/10 | Least Squares Classification | TBA | Assigned: Homework 9 | TBA |
-|  | F 4/12 | Principal Components | TBA | - | TBA |
-| **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
-|  | W 4/17 | _Project Period_ | - | - | - |
-|  | F 4/19 | **Project Phase 3** | - | - | - |
-| **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
-|  | W 4/24 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
-|  | F 4/26 | _Project Period_ | TBA | - | TBA |
-| **16** | W 5/1 | **Project Phase 4** | - | - | - |
-
-<br>
-
-Along with textbook [N] and [B], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
-
-  * Inquiry oriented linear algebra (IOLA) by @iola2013
-  * Introduction to linear algebra (6th Edition) by @strang2023linearalgebra
-  * Linear algebra and learning from data by @strang2019linearalgebradata
-  * Linear algebra by @linearalgebramitopencourseware
-
-<br>
-
-## **Books & Online Resources Lists**
-
-```{r echo=FALSE}
-refs <- bibtex::read.bib("../../references.bib")
-```
-
-*Click on the link to access the resources.*
-
-### Textbooks
-
-[N] `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
-
-[B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
-
-<br>
-
-\newpage
-
-# **References**
-
-::: {#refs}
-:::
 
 <br>
