@@ -107,8 +107,11 @@ refs <- bibtex::read.bib("references.bib")
 
 <br>
 
-# References
+\newpage
 
-<div id="refs"></div>
+## **References**
+
+::: {#refs}
+:::
 
 <br>

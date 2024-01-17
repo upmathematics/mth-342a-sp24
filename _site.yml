@@ -13,7 +13,7 @@ navbar:
     - text: "Topics"
       href: topics.html
     - text: "Project"
-      href: tba.html
+      href: project.html
 output:
   html_document:
     theme: sandstone

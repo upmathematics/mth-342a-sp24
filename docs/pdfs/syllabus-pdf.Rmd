@@ -109,9 +109,9 @@ Note that you may submit your assignments physically in-person if you prefer. I 
 
 ### Computing
 
-We will be using a computational tool in some assignments. These tools are free and open-source.
+We will be using a computational tool (R or Python) for the semester project and some assignments. These tools are free and open-source.
 
-> R or Python instructions and materials will be provided ad hoc.
+> TBA
 
 <br>
 
@@ -279,12 +279,12 @@ The project is an individual *expository analysis* that demonstrates a comprehen
 
 The general timeline of the project is done in four phases:
 
-  * *Phase 1:* Topic Selection, literature Review, theoretical framework.
-  * *Phase 2:* Application, computational aspect, results, and Analysis.
+  * *Phase 1:* Topic Selection, literature Review, and theoretical framework.
+  * *Phase 2:* Application, computational aspect, results, and analysis.
   * *Phase 3:* Visualizations, discussions, and conclusions.
   * *Phase 4:* Final report and presentation to the whole class.
 
-Each phase has its own specific tasks of the same chosen topic, and due date on when these tasks should be done. You must submit a written report by the time you present, and present that report to me. The one-to-one presentation allows you to demonstrate your understanding of your project verbally and receive valuable feedback. It is administered mostly in dialog style. The presentation is only ten to fifteen minutes.
+Each phase has its own specific tasks of the same chosen topic, and due date on when these tasks should be done. You must submit a written report by the time you present, and present that report to me in each phase. The one-to-one presentation allows you to demonstrate your understanding of your project verbally and receive valuable feedback. It is administered mostly in dialog style. The presentation is only ten to fifteen minutes.
 
 As a student in this course, the table below outlines the criteria used to assess the abilities demonstrated in each phase. The final report and presentation will be evaluated comprehensively.
 
@@ -303,6 +303,7 @@ Every semester is unique and topics can very each semester. See the [Project](tb
 
 Here are the rules for the project phase presentations:
 
+  * Each student must have a unique topic, meaning students with the same topic is not allowed.
   * You must sign-up for a time slot on phase presentation days 24 hours in advance.
   * You must submit your written report at the beginning of your presentation.
 
@@ -324,7 +325,7 @@ Here are the rules for phase revisions:
 
   * Revisions and presenting your revisions must be done on the next Project Phase, otherwise the grade is set. This means - for example - revisions for Phase 1 must be done by Phase 2.
 
-### Make-up Project Phase Presentations
+### Project Phase Make-Up
 
 You can make-up your phase presentations due to extenuating circumstances. Please let me know if you can’t make it to a phase presentation day. If you missed a phase presentation day, please let me know as soon as possible to discuss the next steps.
 
@@ -502,8 +503,9 @@ refs <- bibtex::read.bib("../../references.bib")
 
 \newpage
 
-# References
+# **References**
 
-<div id="refs"></div>
+::: {#refs}
+:::
 
 <br>
