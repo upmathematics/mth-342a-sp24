@@ -35,7 +35,7 @@ create_footer()
 |:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | M 1/15 | _MLK Day_ | - | - | - |
 |  | W 1/17 | _Cancelled_ | - | - | - |
-|  | F 1/19 | Introduction and Orientation to ALA | Algebra & Calculus Review | - | Syllabus |
+|  | F 1/19 | Introduction and Orientation to ALA | Algebra & Geometry Review | - | Syllabus |
 | **2** | M 1/22 | Vector Geometry &<br>Projections and Planes | TBA | - | TBA |
 |  | W 1/24 | Subspace and Spanning | TBA | Assigned: Homework 1 | TBA |
 |  | F 1/26 | Linear Independence and Dimension | TBA | - | TBA |

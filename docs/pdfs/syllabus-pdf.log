@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.13)  16 JAN 2024 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.17)  17 JAN 2024 09:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **syllabus-pdf.tex
 (./syllabus-pdf.tex
-LaTeX2e <2023-11-01>
+LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
@@ -688,16 +688,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [12] (./syllabus-pdf.aux)
  ***********
-LaTeX2e <2023-11-01>
+LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14771 strings out of 474165
- 230175 string characters out of 5749497
- 1949528 words of memory out of 5000000
+ 14769 strings out of 474165
+ 230153 string characters out of 5749497
+ 1949542 words of memory out of 5000000
  36592 multiletter control sequences out of 15000+600000
- 619073 words of font info for 152 fonts, out of 8000000 for 9000
+ 618982 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,11n,81p,1262b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023
