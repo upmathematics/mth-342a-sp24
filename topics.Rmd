@@ -25,7 +25,7 @@ create_footer()
 >
 > The reading materials are not mandatory but it is encouraged.
 
-<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
+<br>The "Reading" column in the table below contains page numbers (Pg.) or chapters (ch.) on which it refers to a label in the Books & Online Resources List. For example "Pg. 1-5 [N]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Linear algebra with applications".
 
 <br>
 
@@ -36,7 +36,7 @@ create_footer()
 | **1** | M 1/15 | _MLK Day_ | - | - | - |
 |  | W 1/17 | _Cancelled_ | - | - | - |
 |  | F 1/19 | Introduction and Orientation to ALA<br>_(Temporarily Asynchronous)_ | Algebra & Geometry Review | - | Syllabus |
-| **2** | M 1/22 | Vector Geometry &<br>Projections and Planes | TBA | - | TBA |
+| **2** | M 1/22 | Vector Geometry &<br>Projections and Planes | Vectors and the Geometry of Space | - | Ch. 4.1, 4.2, & 4.3 [N]  |
 |  | W 1/24 | Subspace and Spanning | TBA | Assigned: Homework 1 | TBA |
 |  | F 1/26 | Linear Independence and Dimension | TBA | - | TBA |
 | **3** | M 1/29 | Matrix Geometry | TBA | - | TBA |
@@ -101,9 +101,9 @@ refs <- bibtex::read.bib("references.bib")
 
 ### Textbooks
 
-[N] `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
+[N] `r capture.output(print(refs["nicholson2018linear"]))` [[pdf]](https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf){target="_blank"}
 
-[B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
+[B] `r capture.output(print(refs["boyd2018introduction"]))` [[pdf]](https://web.stanford.edu/~boyd/vmls/vmls.pdf){target="_blank"}
 
 <br>
 
