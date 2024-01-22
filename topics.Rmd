@@ -38,8 +38,8 @@ create_footer()
 |  | F 1/19 | Introduction and Orientation to ALA<br>_(Temporarily Asynchronous)_ | Algebra & Geometry Review | - | Syllabus |
 | **2** | M 1/22 | Dot Product &<br>Projections | Vectors and the Geometry of Space Part 1 | - | Ch. 4.1 & 4.2 [N]  |
 |  | W 1/24 | Cross Product &<br>Planes | Vectors and the Geometry of Space Part 2 | Assigned: Homework 1 | Ch. 4.3 [N] |
-|  | F 1/26 | Subspace and Spanning &<br>Linear Independence and Dimension | TBA | - | TBA |
-| **3** | M 1/29 | Matrix Geometry | TBA | - | TBA |
+|  | F 1/26 | Intersections &<br>Subspace and Spanning | TBA | - | TBA |
+| **3** | M 1/29 | Linear Independence &<br>Matrix Geometry | TBA | - | TBA |
 |  | W 1/31 | Addition, Multiplication, and Transposition | TBA | Assigned: Homework 2 | TBA |
 |  | F 2/2 | Linear Transformations | TBA | - | TBA |
 | **4** | M 2/5 | System of Linear Equations | TBA | - | TBA |
