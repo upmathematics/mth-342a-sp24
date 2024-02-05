@@ -45,7 +45,7 @@ create_footer()
 | **4** | M 2/5 | Row Reduction and Rank | TBA | - | TBA |
 |  | W 2/7 | Solutions to System of Linear Equations | TBA | - | TBA |
 |  | F 2/9 | Inverse Transformation | TBA | Assigned: Homework 3 | TBA |
-| **5** | M 2/12 | _Project Period_ | TBA | - | TBA |
+| **5** | M 2/12 | Elementary Matrices &<br>Linear Transformations | TBA | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
 |  | F 2/16 | **Project Phase 1** | - | - | - |
 | **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
@@ -60,7 +60,7 @@ create_footer()
 | **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
 |  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | Assigned: Homework 6 | TBA |
 |  | F 3/15 | Diagonalization | TBA | - | TBA |
-| **10** | M 3/18 | Solutions to Matrix Equations | TBA | - | TBA |
+| **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
 | **11** | M 3/25 | LU Factorization | TBA | - | TBA |
