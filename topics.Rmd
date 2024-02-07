@@ -41,11 +41,11 @@ create_footer()
 |  | F 1/26 | Equations of lines and Planes | Lines and Planes in Space | Assigned: Homework 1 | TBA |
 | **3** | M 1/29 | Linear Independence &<br>Matrix Geometry | Basis Vectors and Independence | - | TBA |
 |  | W 1/31 | Matrix Addition, Multiplication, and Transposition | Matrix Algebra and Applications | - | TBA |
-|  | F 2/2 | System of Linear Equations | TBA | Assigned: Homework 2 | TBA |
-| **4** | M 2/5 | Row Reduction and Rank | TBA | - | TBA |
-|  | W 2/7 | Solutions to System of Linear Equations | TBA | - | TBA |
-|  | F 2/9 | Inverse Transformation | TBA | Assigned: Homework 3 | TBA |
-| **5** | M 2/12 | Elementary Matrices &<br>Linear Transformations | TBA | - | TBA |
+|  | F 2/2 | System of Linear Equations & Row Reduction | System of Linear Equations and Applications | Assigned: Homework 2 | TBA |
+| **4** | M 2/5 | Matrix Rank | - | - | TBA |
+|  | W 2/7 | Matrix Inverse | Matrix Rank and Inverse | - | TBA |
+|  | F 2/9 | Elementary Matrices | TBA | Assigned: Homework 3 | TBA |
+| **5** | M 2/12 | Linear Transformations | TBA | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
 |  | F 2/16 | **Project Phase 1** | - | - | - |
 | **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
