@@ -44,22 +44,22 @@ create_footer()
 |  | F 2/2 | System of Linear Equations & Row Reduction | System of Linear Equations and Applications | Assigned: Homework 2 | TBA |
 | **4** | M 2/5 | Matrix Rank | - | - | TBA |
 |  | W 2/7 | Matrix Inverse | Matrix Rank and Inverse | - | TBA |
-|  | F 2/9 | Elementary Matrices | TBA | Assigned: Homework 3 | TBA |
+|  | F 2/9 | Elementary Matrices | Elementary Matrices | - | TBA |
 | **5** | M 2/12 | Linear Transformations | TBA | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
-|  | F 2/16 | **Project Phase 1** | - | - | - |
+|  | F 2/16 | **Project Phase 1** | - | Assigned: Homework 3 | - |
 | **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
-|  | W 2/21 | Subspace and Spanning Sets | TBA | Assigned: Homework 4 | TBA |
-|  | F 2/23 | Orthogonality | TBA | - | TBA |
+|  | W 2/21 | Subspace and Spanning Sets | TBA | - | TBA |
+|  | F 2/23 | Orthogonality | TBA | Assigned: Homework 4 | TBA |
 | **7** | M 2/26 | Eigentheory | TBA | - | TBA |
-|  | W 2/28 | Real and Complex Eigenvalues | TBA | Assigned: Homework 5 | TBA |
-|  | F 3/1 | Eigenvectors | TBA | - | TBA |
+|  | W 2/28 | Real and Complex Eigenvalues | TBA | - | TBA |
+|  | F 3/1 | Eigenvectors | TBA | Assigned: Homework 5 | TBA |
 | **8** | M 3/4 | _Spring Vacation_ | - | - | - |
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
 | **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
-|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | Assigned: Homework 6 | TBA |
-|  | F 3/15 | Diagonalization | TBA | - | TBA |
+|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | - | TBA |
+|  | F 3/15 | Diagonalization | TBA | Assigned: Homework 6 | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
