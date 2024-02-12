@@ -45,7 +45,7 @@ create_footer()
 | **4** | M 2/5 | Matrix Rank | - | - | TBA |
 |  | W 2/7 | Matrix Inverse | Matrix Rank and Inverse | - | TBA |
 |  | F 2/9 | Elementary Matrices | Elementary Matrices | - | TBA |
-| **5** | M 2/12 | Linear Transformations | TBA | - | TBA |
+| **5** | M 2/12 | Linear Transformations | Rotations, Reflections, and Projections | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
 |  | F 2/16 | **Project Phase 1** | - | Assigned: Homework 3 | - |
 | **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
