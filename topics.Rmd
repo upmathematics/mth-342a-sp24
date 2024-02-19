@@ -47,13 +47,13 @@ create_footer()
 |  | F 2/9 | Elementary Matrices | Elementary Matrices | - | TBA |
 | **5** | M 2/12 | Linear Transformations | Rotations, Reflections, and Projections | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
-|  | F 2/16 | **Project Phase 1** | - | Assigned: Homework 3 | - |
-| **6** | M 2/19 | Vector Spaces | TBA | - | TBA |
-|  | W 2/21 | Subspace and Spanning Sets | TBA | - | TBA |
-|  | F 2/23 | Orthogonality | TBA | Assigned: Homework 4 | TBA |
+|  | F 2/16 | **Project Phase 1** | - | - | - |
+| **6** | M 2/19 | Fundamental Theorem of Linear Algebra | TBA | - | TBA |
+|  | W 2/21 | Four Fundamental Subspaces | TBA | - | TBA |
+|  | F 2/23 | Orthogonality | TBA | Assigned: Homework 3 | TBA |
 | **7** | M 2/26 | Eigentheory | TBA | - | TBA |
 |  | W 2/28 | Real and Complex Eigenvalues | TBA | - | TBA |
-|  | F 3/1 | Eigenvectors | TBA | Assigned: Homework 5 | TBA |
+|  | F 3/1 | Eigenvectors | TBA | Assigned: Homework 4 | TBA |
 | **8** | M 3/4 | _Spring Vacation_ | - | - | - |
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
@@ -62,22 +62,22 @@ create_footer()
 |  | F 3/15 | Diagonalization | TBA | - | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
-|  | F 3/22 | **Project Phase 2** | - | Assigned: Homework 6 | - |
+|  | F 3/22 | **Project Phase 2** | - | - | - |
 | **11** | M 3/25 | LU Factorization | TBA | - | TBA |
 |  | W 3/27 | QR Factorization | TBA | - | TBA |
-|  | F 3/29 | _Easter Vacation_ | - | Assigned: Homework 7 | - |
+|  | F 3/29 | _Easter Vacation_ | - | Assigned: Homework 5 | - |
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
 |  | W 4/3 | Singular Vectors | TBA | - | TBA |
-|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 8 | TBA |
+|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 6 | TBA |
 | **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
 |  | W 4/10 | Least Squares Classification | TBA | - | TBA |
 |  | F 4/12 | Principal Components | TBA | - | TBA |
 | **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
 |  | W 4/17 | _Project Period_ | - | - | - |
-|  | F 4/19 | **Project Phase 3** | - | Assigned: Homework 9 | - |
+|  | F 4/19 | **Project Phase 3** | - | - | - |
 | **15** | M 4/22 | _Project Period_ | TBA | - | TBA |
 |  | W 4/24 | _Project Period_ | TBA | - | TBA |
-|  | F 4/26 | _Project Period_ | TBA | Assigned: Homework 10 (Optional) | TBA |
+|  | F 4/26 | _Project Period_ | TBA | - | TBA |
 | **16** | W 5/1 | **Project Phase 4** | - | - | - |
 
 <br>
