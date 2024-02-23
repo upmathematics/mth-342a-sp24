@@ -49,8 +49,8 @@ create_footer()
 |  | W 2/14 | _Project Period_ | - | - | - |
 |  | F 2/16 | **Project Phase 1** | - | - | - |
 | **6** | M 2/19 | Fundamental Theorem of Linear Algebra | TBA | - | TBA |
-|  | W 2/21 | Four Fundamental Subspaces | TBA | - | TBA |
-|  | F 2/23 | Orthogonality | TBA | Assigned: Homework 3 | TBA |
+|  | W 2/21 | _Cancelled_ | TBA | - | TBA |
+|  | F 2/23 | Four Fundamental Subspaces &<br> Orthogonality | TBA | Assigned: Homework 3 | TBA |
 | **7** | M 2/26 | Eigentheory | TBA | - | TBA |
 |  | W 2/28 | Real and Complex Eigenvalues | TBA | - | TBA |
 |  | F 3/1 | Eigenvectors | TBA | Assigned: Homework 4 | TBA |
