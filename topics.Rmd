@@ -53,11 +53,11 @@ create_footer()
 |  | F 2/23 | Four Fundamental Subspaces &<br> Orthogonality | Orthogonality | Assigned: Homework 3 | TBA |
 | **7** | M 2/26 | Diagonalization | Characteristic Polynomial and Diagonalizable Matrix | - | TBA |
 |  | W 2/28 |  Eigentheory | Distinct Eigenvalues and Algebraic Multiplicity | - | TBA |
-|  | F 3/1 | Real and Complex Eigenvalues | eigenvalues and applications | Assigned: Homework 4 | TBA |
+|  | F 3/1 | _Special Help Hours_ | - | Assigned: Homework 4 | - |
 | **8** | M 3/4 | _Spring Vacation_ | - | - | - |
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
-| **9** | M 3/11 | Eigenvectors | TBA | - | TBA |
+| **9** | M 3/11 | Real and Complex Eigenvalues | Eigenvalues and Applications | - | TBA |
 |  | W 3/13 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
 |  | F 3/15 | Eigenvectors for Repeated Eigenvalues | TBA | - | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
