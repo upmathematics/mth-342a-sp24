@@ -48,18 +48,18 @@ create_footer()
 | **5** | M 2/12 | Linear Transformations | Rotations, Reflections, and Projections | - | TBA |
 |  | W 2/14 | _Project Period_ | - | - | - |
 |  | F 2/16 | **Project Phase 1** | - | - | - |
-| **6** | M 2/19 | Fundamental Theorem of Linear Algebra | TBA | - | TBA |
-|  | W 2/21 | _Cancelled_ | TBA | - | TBA |
-|  | F 2/23 | Four Fundamental Subspaces &<br> Orthogonality | TBA | Assigned: Homework 3 | TBA |
-| **7** | M 2/26 | Eigentheory | TBA | - | TBA |
-|  | W 2/28 | Real and Complex Eigenvalues | TBA | - | TBA |
-|  | F 3/1 | Eigenvectors | TBA | Assigned: Homework 4 | TBA |
+| **6** | M 2/19 | Fundamental Theorem of Linear Algebra | Understanding the Fundamental Theorem of Linear Lagebra | - | TBA |
+|  | W 2/21 | _Cancelled_ | - | - | - |
+|  | F 2/23 | Four Fundamental Subspaces &<br> Orthogonality | Orthogonality | Assigned: Homework 3 | TBA |
+| **7** | M 2/26 | Diagonalization | Characteristic Polynomial and Diagonalizable Matrix | - | TBA |
+|  | W 2/28 |  Eigentheory | Distinct Eigenvalues and Algebraic Multiplicity | - | TBA |
+|  | F 3/1 | Real and Complex Eigenvalues | eigenvalues and applications | Assigned: Homework 4 | TBA |
 | **8** | M 3/4 | _Spring Vacation_ | - | - | - |
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
-| **9** | M 3/11 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
-|  | W 3/13 | Eigenvectors for Repeated Eigenvalues | TBA | - | TBA |
-|  | F 3/15 | Diagonalization | TBA | - | TBA |
+| **9** | M 3/11 | Eigenvectors | TBA | - | TBA |
+|  | W 3/13 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
+|  | F 3/15 | Eigenvectors for Repeated Eigenvalues | TBA | - | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
