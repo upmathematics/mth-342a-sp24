@@ -53,25 +53,25 @@ create_footer()
 |  | F 2/23 | Four Fundamental Subspaces &<br> Orthogonality | Orthogonality | Assigned: Homework 3 | TBA |
 | **7** | M 2/26 | Diagonalization | Characteristic Polynomial and Diagonalizable Matrix | - | TBA |
 |  | W 2/28 |  Eigentheory | Distinct Eigenvalues and Algebraic Multiplicity | - | TBA |
-|  | F 3/1 | _Special Help Hours_ | - | Assigned: Homework 4 | - |
+|  | F 3/1 | _Special Help Hours_ | - | - | - |
 | **8** | M 3/4 | _Spring Vacation_ | - | - | - |
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
 | **9** | M 3/11 | Real and Complex Eigenvalues | Eigenvalues and Applications | - | TBA |
 |  | W 3/13 | Eigenvectors for Distinct and Repeated Eigenvalues | - | - | TBA |
-|  | F 3/15 | Geometric Meaning of Eigenvalues and Eigenvectors | TBA | - | TBA |
+|  | F 3/15 | Geometric Meaning of Eigenvalues and Eigenvectors | TBA | Assigned: Homework 4 | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
 | **11** | M 3/25 | LU Factorization | TBA | - | TBA |
 |  | W 3/27 | QR Factorization | TBA | - | TBA |
-|  | F 3/29 | _Easter Vacation_ | - | Assigned: Homework 5 | - |
+|  | F 3/29 | _Easter Vacation_ | - | - | - |
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
 |  | W 4/3 | Singular Vectors | TBA | - | TBA |
-|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 6 | TBA |
+|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 5 | TBA |
 | **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
 |  | W 4/10 | Least Squares Classification | TBA | - | TBA |
-|  | F 4/12 | Principal Components | TBA | - | TBA |
+|  | F 4/12 | Principal Components | TBA | Assigned: Homework 6 | TBA |
 | **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
 |  | W 4/17 | _Project Period_ | - | - | - |
 |  | F 4/19 | **Project Phase 3** | - | - | - |
