@@ -58,8 +58,8 @@ create_footer()
 |  | W 3/6 | _Spring Vacation_ | - | - | - |
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
 | **9** | M 3/11 | Real and Complex Eigenvalues | Eigenvalues and Applications | - | TBA |
-|  | W 3/13 | Eigenvectors for Distinct Eigenvalues | TBA | - | TBA |
-|  | F 3/15 | Eigenvectors for Repeated Eigenvalues | TBA | - | TBA |
+|  | W 3/13 | Eigenvectors for Distinct and Repeated Eigenvalues | - | - | TBA |
+|  | F 3/15 | Geometric Meaning of Eigenvalues and Eigenvectors | TBA | - | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
