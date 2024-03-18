@@ -59,7 +59,7 @@ create_footer()
 |  | F 3/8 | _Spring Vacation_ | - | - | - |
 | **9** | M 3/11 | Real and Complex Eigenvalues | Eigenvalues and Applications | - | TBA |
 |  | W 3/13 | Eigenvectors for Distinct and Repeated Eigenvalues | - | - | TBA |
-|  | F 3/15 | Geometric Meaning of Eigenvalues and Eigenvectors | TBA | Assigned: Homework 4 | TBA |
+|  | F 3/15 | Geometric Meaning of Eigenvalues and Eigenvectors | TBA | - | TBA |
 | **10** | M 3/18 | Matrix Factorizations | TBA | - | TBA |
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
@@ -68,10 +68,10 @@ create_footer()
 |  | F 3/29 | _Easter Vacation_ | - | - | - |
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
 |  | W 4/3 | Singular Vectors | TBA | - | TBA |
-|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 5 | TBA |
+|  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 4 | TBA |
 | **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
 |  | W 4/10 | Least Squares Classification | TBA | - | TBA |
-|  | F 4/12 | Principal Components | TBA | Assigned: Homework 6 | TBA |
+|  | F 4/12 | Principal Components | TBA | Assigned: Homework 5 | TBA |
 | **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
 |  | W 4/17 | _Project Period_ | - | - | - |
 |  | F 4/19 | **Project Phase 3** | - | - | - |
