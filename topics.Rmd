@@ -64,7 +64,7 @@ create_footer()
 |  | W 3/20 | _Project Period_ | - | - | - |
 |  | F 3/22 | **Project Phase 2** | - | - | - |
 | **11** | M 3/25 | LU Factorization | Product of Lower and Upper Triangular Matrix | - | TBA |
-|  | W 3/27 | QR Factorization | Product of an Orthonormal matrix and an Upper Triangular Matrix | - | TBA |
+|  | W 3/27 | QR Factorization | Product of an Orthonormal Matrix and a Triangular Matrix | - | TBA |
 |  | F 3/29 | _Easter Vacation_ | - | - | - |
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
 |  | W 4/3 | Singular Values and Vectors | TBA | - | TBA |
