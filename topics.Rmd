@@ -36,11 +36,11 @@ create_footer()
 | **1** | M 1/15 | _MLK Day_ | - | - | - |
 |  | W 1/17 | _Cancelled_ | - | - | - |
 |  | F 1/19 | Introduction and Orientation to ALA<br>_(Temporarily Asynchronous)_ | Algebra & Geometry Review | - | Syllabus |
-| **2** | M 1/22 | [Dot Product &<br>Projections](class-notes/Dot Product & Projections.pdf){target="_blank"} | Vectors and the Geometry of Space Part 1 | - | Ch. 4.1 & 4.2 [N]  |
-|  | W 1/24 | [Cross Product &<br>Planes](class-notes/Cross Product & Planes.pdf){target="_blank"} | Vectors and the Geometry of Space Part 2 | - | Ch. 4.3 [N] |
-|  | F 1/26 | [Equations of lines and Planes](class-notes/Equations of Lines and Planes.pdf){target="_blank"} | Lines and Planes in Space | Assigned: Homework 1 | TBA |
-| **3** | M 1/29 | [Linear Independence &<br>Matrix Geometry](class-notes/Linear Independence & Matrix Geometry.pdf){target="_blank"} | Basis Vectors and Independence | - | TBA |
-|  | W 1/31 | [Matrix Addition, Multiplication, and Transposition](class-notes/Matrix Addition, Multiplication, and Transposition.pdf){target="_blank"} | Matrix Algebra and Applications | - | TBA |
+| **2** | M 1/22 | Dot Product &<br>Projections | Vectors and the Geometry of Space Part 1 | - | Ch. 4.1 & 4.2 [N]  |
+|  | W 1/24 | Cross Product &<br>Planes | Vectors and the Geometry of Space Part 2 | - | Ch. 4.3 [N] |
+|  | F 1/26 | Equations of lines and Planes | Lines and Planes in Space | Assigned: Homework 1 | TBA |
+| **3** | M 1/29 | Linear Independence &<br>Matrix Geometry | Basis Vectors and Independence | - | TBA |
+|  | W 1/31 | Matrix Addition, Multiplication, and Transposition | Matrix Algebra and Applications | - | TBA |
 |  | F 2/2 | System of Linear Equations & Row Reduction | System of Linear Equations and Applications | Assigned: Homework 2 | TBA |
 | **4** | M 2/5 | Matrix Rank | - | - | TBA |
 |  | W 2/7 | Matrix Inverse | Matrix Rank and Inverse | - | TBA |
