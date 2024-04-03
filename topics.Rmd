@@ -67,7 +67,7 @@ create_footer()
 |  | W 3/27 | QR Factorization | Product of an Orthonormal Matrix and a Triangular Matrix | - | TBA |
 |  | F 3/29 | _Easter Vacation_ | - | - | - |
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
-|  | W 4/3 | Singular Values and Vectors | TBA | - | TBA |
+|  | W 4/3 | Geometric Meaning of Singular Values and Singular Vectors | Geometric Interpretation of Singular Values | - | TBA |
 |  | F 4/5 | Singular Value Decomposition (SVD) | TBA | Assigned: Homework 4 | TBA |
 | **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
 |  | W 4/10 | Least Squares Classification | TBA | - | TBA |
