@@ -69,8 +69,8 @@ create_footer()
 | **12** | M 4/1 | _Easter Vacation_ | - | - | - |
 |  | W 4/3 | Geometric Meaning of Singular Values and Singular Vectors | Geometric Interpretation of Singular Values | - | TBA |
 |  | F 4/5 | Singular Value Decomposition (SVD) | Pseudoinverses and Dimensional Reduction | Assigned: Homework 4 | TBA |
-| **13** | M 4/8 | Linear and Non-Linear Least Squares | TBA | - | TBA |
-|  | W 4/10 | Least Squares Classification | TBA | - | TBA |
+| **13** | M 4/8 | _Cancelled_ | TBA | - | TBA |
+|  | W 4/10 | Linear and Non-Linear Least Squares | TBA | - | TBA |
 |  | F 4/12 | Principal Components | TBA | Assigned: Homework 5 | TBA |
 | **14** | M 4/15 | Principal Component Analysis (PCA) | TBA | - | TBA |
 |  | W 4/17 | _Project Period_ | - | - | - |
