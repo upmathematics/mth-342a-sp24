@@ -71,13 +71,13 @@ create_footer()
 |  | F 4/5 | Singular Value Decomposition (SVD) | Pseudoinverses and Dimensional Reduction | Assigned: Homework 4 | TBA |
 | **13** | M 4/8 | _Cancelled_ | - | - | - |
 |  | W 4/10 | Geometric Meaning of Principal Components | Understanding Principal Components | - | TBA |
-|  | F 4/12 | Principal Component Analysis (PCA) | Analysis of High-Dimensional Data with Principal Components | Assigned: Homework 5 | TBA |
+|  | F 4/12 | Principal Component Analysis (PCA) | Analysis of High-Dimensional Data with Principal Components | - | TBA |
 | **14** | M 4/15 | More Applications and Beyond | Least Squares and Constrained Optimization | - | TBA |
 |  | W 4/17 | _Project Period_ | - | - | - |
-|  | F 4/19 | **Project Phase 3** | - | - | - |
+|  | F 4/19 | *Cancelled* | - | - | - |
 | **15** | M 4/22 | _Project Period_ | - | - | TBA |
 |  | W 4/24 | _Project Period_ | - | - | TBA |
-|  | F 4/26 | _Project Period_ | - | - | TBA |
+|  | F 4/26 | **Project Phase 3** | - | - | TBA |
 | **16** | W 5/1 | **Project Phase 4** | - | - | - |
 
 <br>
